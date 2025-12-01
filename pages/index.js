@@ -1,10 +1,5 @@
 function Home() {
-  return (
-    <h1>
-      Te amo, lindona! Se também me ama, dá aquele sorriso que eu tanto gosto!
-      😘
-    </h1>
-  );
+  return <h1>Website em construção. 🚧</h1>;
 }
 
 export default Home;
